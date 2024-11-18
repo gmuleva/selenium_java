@@ -1,0 +1,43 @@
+package java_learnings;
+
+public class Data_types {
+
+	public static void main(String[] args) {
+		/*
+		int a; //declaration
+		a=100; //assignment
+		System.out.println(a);
+		
+		int b=100; 
+		System.out.println(b);
+		 
+		b=200;
+		System.out.println(b); //changed the value..100 to 200
+		//approch 1
+		 */
+		 
+		/*
+		int a=100;
+		int b=200;
+		int c=300;
+		*/
+		
+		/*int a,b,c;
+		a=100;
+		b=200;
+		c=300; if same data types all integers then these is also approch to assign value
+		*/
+		
+		
+		int a=100,b=200,c=300;
+		//if the variable belongs to same data type
+		
+		
+		
+		System.out.println("these is the value of a"  + a);
+		
+		System.out.println(a+b+c);//addition af all
+		System.out.println(a+" "+b+" "+c); //all values in single line
+	}
+
+}
