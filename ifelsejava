@@ -1,0 +1,66 @@
+package java_learnings;
+
+public class If_else_all_conditional_statement {
+	
+	public static void main(String[] args) {
+		
+	/*
+	 * Q1- if age is 18 then eligible or greater than 18 then only eligible otherwise not make a program?
+	 * 	int age=14;
+		
+		if(age>=18)
+		{
+			System.out.println("you are eligible for vode");
+		}
+		else
+		{
+			System.out.println("you are not eleigible sorry");
+		}
+		*/
+		
+		/* Q2- print no is even or odd? 
+		 int num = 15;
+		 if (num%2==0)
+		 {
+			 System.out.println("The number is an even number");
+		 }
+		 else
+		 {
+			 System.out.println("The number you entered is an odd no.");
+		 }
+		*/
+		/* Q3- A number is possitive negative or zero?
+		int num = 0;
+		if (num>0)
+		{
+			System.out.println("the no. you entered is an positive number");
+			
+			
+		}
+		else if (num<0)
+		{
+			System.out.println("it is an negative number");
+		}
+		else
+		{
+			System.out.println("the number is 0");
+		}
+		*/
+		/*Q3-Which number is the largest number?
+		int a=10,b=40,c=30;
+		if (a>b&&a>c)
+		{
+			System.out.println("a is largest");
+		}
+		else if(b>a&&b>c)
+		{
+			System.out.println("b is largest");
+		}
+		else 
+		{
+			System.out.println("c is largest");
+		}
+		*/
+	}
+
+}
